@@ -1,1 +1,7 @@
 git init #iniciar repositorio local desde la terminal
+git add #para ver que archivos están siendo trackeados por git
+git add #para agregar un archivo al tracking de git
+git commit -m "agregue txt" #commit desde la terminal
+git push #subir cambios al repositorio
+git push --set-upstream origin master #guardar cambios al repositorio la primera vez
+

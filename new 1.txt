@@ -1,4 +1,4 @@
-git init #iniciar repositorio local desde la terminal
+git init #iniciar repositorio local desde la terminal- se edita como prueba
 git add #para ver que archivos están siendo trackeados por git
 git add #para agregar un archivo al tracking de git
 git commit -m "agregue txt" #commit desde la terminal
